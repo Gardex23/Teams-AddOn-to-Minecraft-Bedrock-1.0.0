@@ -1,0 +1,51 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "§aTEAMS ADDON to Minecraft Bedrock §r[BP]",
+        "description": "Teams addon to Minecraft Bedrock by Gardex (Gardex6872)",
+        "uuid": "05187538-4278-4490-9056-87e267f8059e",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 20, 60]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "description": "Teams addon to Minecraft Bedrock by Gardex (Gardex6872)",
+            "uuid": "0fc662d1-35bd-4470-8710-3e1f240a7ed3",
+            "version": [1, 0, 0]
+        },
+        {
+            "type": "script",
+            "language": "javascript",
+            "uuid": "ca17dcf3-30eb-4edb-8f86-5c082147bdad",
+            "entry": "scripts/main.js",
+            "version": [1, 0, 0]
+        }
+    ],
+    "dependencies": [
+        {
+            "module_name": "@minecraft/server",
+            "version": "1.12.0-beta"
+        },
+        {
+            "module_name": "@minecraft/server-ui",
+            "version": "1.2.0-beta"
+        },
+        {
+            "uuid": "d594beec-2f48-44d6-9361-c98f780eb53b",
+            "version": [1, 0, 0]
+        }
+    ],
+    "subpacks": [
+        {
+            "folder_name": "teams_addon_EN",
+            "name": "§aTeams Addon [EN]§r",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "teams_addon_ES",
+            "name": "§aTeams Addon [ES]§r",
+            "memory_tier": 1
+        }
+    ]
+}

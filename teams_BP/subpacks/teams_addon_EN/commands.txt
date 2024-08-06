@@ -1,0 +1,12 @@
+List of commands: 
+!teams help: Show the Support Menu
+!teams new <teamName>: Create a new team. You must be opped to use this command
+!teams add <playerName>: Adds a player to your team
+!teams remove <playerName>: Removes a player to your team
+!teams delete <teamName>: Delete a team
+!tm <message>: Send a message to your teammates
+#<message>: Global messages
+!teams start players: Start a custom match teleporting the players (For a best explication, you must use
+the !teams help command in-game)
+!teams start teams: Start a custom match teleporting the teams (For a best explication, you must use
+the !teams help command in-game)

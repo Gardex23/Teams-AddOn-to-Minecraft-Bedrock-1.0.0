@@ -1,0 +1,12 @@
+Lista de Comandos: 
+!teams help: Muestra el menú de ayuda
+!teams new <teamName>: Crea un nuevo equipo. Debes ser op para usar este comando
+!teams add <playerName>: Añade un jugador a tu equipo
+!teams remove <playerName>: Elimina a un jugador de tu equipo
+!teams delete <teamName>: Elimina un equipo
+!tm <message>: Envía mensajes a tus compañeros
+#<message>: Mensajes globales
+!teams start players: Inicia una partida personalizada teletrasportándo a los jugadores
+(Para una mejor explicación, debe usar el comando !teams help en el juego)
+!teams start teams: Inicia una partida personalizada teletrasportándo a los equipos
+(Para una mejor explicación, debe usar el comando !teams help en el juego)

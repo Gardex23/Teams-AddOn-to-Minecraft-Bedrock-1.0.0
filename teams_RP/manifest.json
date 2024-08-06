@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "§aTEAMS ADDON to Minecraft Bedrock §r[RP]",
+        "description": "Teams addon to Minecraft Bedrock by Gardex (Gardex6872)",
+        "uuid": "d594beec-2f48-44d6-9361-c98f780eb53b",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 20, 60]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "description": "Teams addon to Minecraft Bedrock by Gardex (Gardex6872)",
+            "uuid": "7122ca27-bb2f-454d-8ff0-fb969ed05e90",
+            "version": [1, 0, 0]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "05187538-4278-4490-9056-87e267f8059e",
+            "version": [1, 0, 0]
+        }
+    ]
+}
