@@ -1,5 +1,5 @@
 ## Teams-AddOn-to-Minecraft-Bedrock-1.0.0
-This is a addon which adds a teams system to 1.21.2 Minecraft Bedrock version
+This is a addon which adds a teams system to 1.21.50 Minecraft Bedrock version
 
 Custom teams name and show them below your name
 
